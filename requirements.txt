@@ -1,0 +1,4 @@
+openai==2.54.0
+pinecone==8.1.2
+python-dotenv==1.2.4
+pyTelegramBotAPI>=4.29,<5
